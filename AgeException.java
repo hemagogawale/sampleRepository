@@ -17,7 +17,7 @@ public class AgeException extends RuntimeException{
 		
 		
 	 }else {
-		 System.out.println("Vote Successful....");
+		 System.out.println("Vote Successful....");   //  sysout
 	 }
 	}
 }
